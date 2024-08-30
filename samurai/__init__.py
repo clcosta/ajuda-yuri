@@ -1,0 +1,1 @@
+from .application.web import app
